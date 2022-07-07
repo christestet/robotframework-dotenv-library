@@ -21,6 +21,7 @@ This Library uses the following dependencies:
 - Create a .env file in the *libs* folder. You can use the [env.template file](libs/.env.template) 
 - Add the DotenvLibrary to your `*** Settings ***` section
 - Use the Keyword `Set Env Var` with a list of keys you want to store in `%{ENVIRONMENT_VARIABLES}`
+- Read the [Library Documentation](https://christestet.github.io/robotframework-dotenv-library/) for futher details
 
 
 ## Contibuting ##
