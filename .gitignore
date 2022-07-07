@@ -1,0 +1,10 @@
+**.pytest_cache**
+**__pycache__**
+**report.html**
+**log.html**
+**output.xml**
+**.vscode**
+**.env
+**robot_stderr.out**
+**robot_stdout.out**
+my_env
