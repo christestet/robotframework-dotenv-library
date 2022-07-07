@@ -17,7 +17,7 @@ This Library uses the following dependencies:
 
 ## Getting started ##
 
-- Install the pip packages with `pip install -r requirements.txt` or use the `run_tests.sh`script
+- Install the pip packages with `pip install -r requirements.txt` or use the [run_tests](run_tests.sh) script
 - Create a .env file in the *libs* folder. You can use the [env.template file](libs/.env.template) 
 - Add the DotenvLibrary to your `*** Settings ***` section
 - Use the Keyword `Set Env Var` with a list of keys you want to store in `%{ENVIRONMENT_VARIABLES}`
